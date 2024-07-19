@@ -10,6 +10,7 @@ namespace FirstGitProject
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Hello Git!");
+            MessageBox.Show("Hello Git1!");
         }
     }
 }
