@@ -12,5 +12,15 @@ namespace FirstGitProject
             MessageBox.Show("Hello Git!");
             MessageBox.Show("Hello Git1!");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Test");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Test2");
+        }
     }
 }
