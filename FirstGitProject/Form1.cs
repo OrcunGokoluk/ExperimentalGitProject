@@ -22,5 +22,10 @@ namespace FirstGitProject
         {
             MessageBox.Show("Test2");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Test3");
+        }
     }
 }
